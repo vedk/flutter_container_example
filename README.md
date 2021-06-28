@@ -1,16 +1,11 @@
 # container_example
 
-A new Flutter project.
+This project demonstrates the use of the `Container` widget.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Run the command below to get this repo and open it in Android Studio.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone https://github.com/vedk/flutter_container_example.git
+```
